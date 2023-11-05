@@ -1,9 +1,7 @@
 # 💫 About Me:
 ![](https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif)
 ### Hi there 👋  Welcome to my profile
-
 Here's something about me :
-
 - 💁‍♀️ I'm a passionate aspiring frontend developer with a strong desire to create beautiful and interactive web experiences. 
 - 📖 Currently, I'm deeply immersed in learning the core web technologies, including HTML, CSS, JavaScript and React Js.
 - 💙 Javascript, Python
@@ -20,7 +18,7 @@ Here's something about me :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anusha-Yadavv&icon=0&color=0)](https://visitcount.itsvg.in)
